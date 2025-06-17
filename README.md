@@ -8,22 +8,6 @@ Pastikan sudah menginstall:
 - Git Bash (jika di Windows)
 - MySQL / MariaDB (opsional)
 
-## Gitbash
-✅ 1. Buka folder project kamu di VSCode
-Buka VSCode
-
-Klik menu File > Open Folder... lalu pilih folder project kamu (misalnya folder PBF)
-
-✅ 2. Buka Terminal Git Bash
-Di VSCode, tekan: Ctrl + Shift + P
-
-Ketik: Select Default Profile
-
-Pilih: Git Bash
-
-Lalu buka terminal: Terminal > New Terminal
-
-Sekarang terminal kamu akan pakai Git Bash ✔️
 ## ⚙️ Cara Menginstal Laravel 10
 
 1. **Buka Git Bash / Terminal**
@@ -48,6 +32,24 @@ php artisan serve
 Laravel akan berjalan di `http://localhost:8000`
 
 ---
+
+## Cara Buka Git Bash
+### 1. Buka folder project kamu di VSCode
+```Buka VSCode
+
+Klik menu File > Open Folder... lalu pilih folder project kamu (misalnya folder PBF)
+```
+### 2. Buka Terminal Git Bash
+```Di VSCode, tekan: Ctrl + Shift + P
+
+Ketik: Select Default Profile
+
+Pilih: Git Bash
+
+Lalu buka terminal: Terminal > New Terminal
+
+Sekarang terminal kamu akan pakai Git Bash ✔️
+```
 
 ## ☁️ Cara Push Laravel ke GitHub dengan Git Bash
 
